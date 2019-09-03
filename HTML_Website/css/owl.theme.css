@@ -82,7 +82,7 @@ button.slick-next.slick-arrow{background:url(../images/next2.png)no-repeat;posit
 .dg-wrapper a{display:block;position:absolute;left:0;top:0;}
 .dg-wrapper a.dg-transition{-webkit-transition:all 0.5s ease-in-out;-moz-transition:all 0.5s ease-in-out;-o-transition:all 0.5s ease-in-out;-ms-transition:all 0.5s ease-in-out;transition:all 0.5s ease-in-out;}
 .dg-wrapper a img{display:block;box-shadow:6px 5px 14px 0px rgba(0, 0, 0, 0.51);}
-.dg-wrapper a .member-home{text-align:center;color:white;width:100%;font-size:12px;opacity:1;visibility:visible;position:absolute;bottom:0;background:rgba(0, 0, 0, 0.56);height:0px;padding-top:5px;-moz-transition:ease 0.5s;-o-transition:ease 0.5s;-webkit-transition:ease 0.5s;transition:ease 0.5s;}
+.dg-wrapper a .member-home{text-align:center;color:white;width:100%;font-size:12px;opacity:1;visibility:visible;position:absolute;bottom:0;background:rgba(0, 0, 0, 0.56);height:60px;padding-top:5px;-moz-transition:ease 0.5s;-o-transition:ease 0.5s;-webkit-transition:ease 0.5s;transition:ease 0.5s;}
 .dg-wrapper a .member-home p{margin:0;}
 .dg-wrapper a .member-home ul.ul{display:inline-block;margin:auto;border:none;}
 .dg-wrapper a .member-home ul.ul li{float:left;margin-right:10px;padding:0;text-align:left;}
